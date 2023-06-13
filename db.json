@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "title": "title^^",
+      "body": "body^^",
+      "id": 2
+    },
+    {
+      "title": "title^^",
+      "body": "body^^",
+      "id": 3
+    },
+    {
+      "title": "김가연가김",
+      "body": "롯데승리^^",
+      "id": 4
+    }
+  ]
+}
